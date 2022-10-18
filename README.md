@@ -1,0 +1,1 @@
+Simple four page WordPress site to relearn how to build WP sites...it's been a while since I've done that.
